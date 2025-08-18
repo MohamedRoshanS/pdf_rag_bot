@@ -177,6 +177,8 @@ app/
 │  └─ llm_providers.py     # LLM integration logic
 ├─ schemas/
 │  └─ models.py            # Pydantic schemas
+├─ utils/
+│  └─ ids.py 
 main.py                    # FastAPI app entrypoint
 .env                       # Environment variables
 requirements.txt           # Python dependencies
@@ -190,5 +192,3 @@ requirements.txt           # Python dependencies
 - **Code Quality:** Clear structure, maintainability, and documentation  
 
 ---
-
-Feel free to customize or expand this README as per your project needs.
