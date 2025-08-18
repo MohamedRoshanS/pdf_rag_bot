@@ -192,5 +192,3 @@ requirements.txt           # Python dependencies
 - **Code Quality:** Clear structure, maintainability, and documentation  
 
 ---
-
-Feel free to customize or expand this README as per your project needs.
