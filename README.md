@@ -177,6 +177,8 @@ app/
 │  └─ llm_providers.py     # LLM integration logic
 ├─ schemas/
 │  └─ models.py            # Pydantic schemas
+├─ utils/
+│  └─ ids.py 
 main.py                    # FastAPI app entrypoint
 .env                       # Environment variables
 requirements.txt           # Python dependencies
